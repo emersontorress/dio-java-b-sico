@@ -1,3 +1,3 @@
 # dio-java-b-sico
-# teste
-Curso JAVA da plataforma DIO
+teste
+Curso JAVA da plataforma DIO!
